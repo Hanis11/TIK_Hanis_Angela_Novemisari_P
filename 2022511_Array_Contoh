@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+int main(){
+   int angka[9] = {
+       123,
+       123,
+       445,
+    };
+       cout<<angka[4];
+  
+    return 0;
+}
